@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <!--
+
+## Hi there 👋
 **simondesh/simondesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋, I'm Simon
+I'm a second-year BSc Finance student at the London School of Economics (LSE) with a passion for coding and an interest in the finance industry. I believe that coding skills are essential for modern finance professionals, and I'm excited to develop my skills in this area.
+
+My goal is to work in finance, possibly as a quant, and I'm eager to learn more about this field. I'm currently exploring different programming languages and tools to build my expertise, and I'm also working on personal projects to improve my coding skills.
+
+On my GitHub profile, you'll find some of the projects I've been working on, including coding exercises, data analysis projects, and more. I'm always looking for feedback and suggestions, so please feel free to reach out if you have any ideas or questions!
+
+Thanks for stopping by, and I look forward to connecting with you!
